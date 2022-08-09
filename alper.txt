@@ -1,0 +1,13 @@
+arka plan siyah ya da koyu bir renk
+sol tarafta başlık 
+başlıktan sonra hakkımda iletişim vs 
+sol tarafta menü kısmı 
+sağ taraf reklam 
+sağ en üst köşe arama yeri
+yazılar anlaşılır ve açık renkler
+satır araları bölünmüş ve gri veya siyah
+sayfaların listesi :
+1.Anasayfa
+2.Çalışmalar
+3.Blog
+4.İletişim
