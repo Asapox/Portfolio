@@ -1,0 +1,38 @@
+.conteudo {
+    display: flex;
+    width: 350px;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 25px;
+    column-gap: 20px;
+}
+.card {
+    width: 50;
+    height: 75px;
+    flex: 0 0 100%;
+    padding: 40px;
+    scroll-snap-align: start;
+    border-radius: 30px;
+    background-color: tomato;
+    position: relative;
+    left: 10px;
+    top: 350px;
+}
+body {
+    background-color: darkgray;
+}
+.blog {
+    position: relative;
+    top: -40px;
+    text-align: center;
+}
+.başlık {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: tomato;
+    border-bottom: 3px solid black;
+    border-radius: 12px;
+    padding: 5px;
+    position: relative;
+    top: -10px;
+    
+}
