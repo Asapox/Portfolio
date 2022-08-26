@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ShopingHall</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <link rel="preconnect" href="http://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0
+    ,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&displa
+    y=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1
+    5.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCv
+    qsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy=
+    "no-referrer" />
+
+</head>
+<body>
+    <div class="hero">
+        <nav>
+            <h2 class="logo"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAZxJREFUSEvtldE1BEEQRe9GgAgQASJABIgAESACRIAIEAEiQASIABkQAefOqZpT22bth7N/6md3Z7rfe/Xqde+IGddoxvj8E0x1+DeLNoD1QHgEHhq0eeAA8NN3d0NsQwRueAKWmg3nwFE82wYuAzyXfQCbwHPd1xIIfg+sAp/AbRBlJ1fARQh4AQ6BN2APOI7va4BkXbUEJ7HwPUhyoQAqzpLcDnugIDsDroPwB4HqX6PtfUC1tSqJVmlZW3YzBywnee0gAVTf+i+Qvt8EokBjVsTzdKAXUAn0eys81ttaOfiFeKjKU0DAWs7OgJg6Uzg2A6PmMHdiuHWjdhhJQS0HammF3dT6mkTgC8uo1cyrxGTVwQu6GOtc3xL04qtFQwT1TNTBJ6lAbSASp8OuBB6QlThMmRCTtFtbLlJzZvWAGQ6T2AelEmQC3CCwA1Opmfd767XdKUqrco9Jk8TD2AWlEuSdYhdZgksydvzLe4mdl6nK8oS7pzuEQ1dFqnCBNrTKm5l2l51qVa4Qu594VbSb//z7/x9tqoUzt+gbR4BiGRRqcagAAAAASUVORK5CYII=" class="meta"/>Shoping<span>hall</span></h2>
+            <ul>
+                <li><a href="#">Order Tracking</a></li>
+                <li><a href="#">Campaigns</a></li>
+                <li><a href="#">Deals of the Day</a></li>
+                <li><a href="#">Fashion</a></li>
+                <li><a href="#">Cosmatic</a></li>
+            </ul>
+            <a href="#" class="btn">Buy Now</a>
+        </nav>
+
+        
+    </div>
+    
+    <section class="about">
+      <div class="main">
+        <div class="about-text">
+            <h2>Shoping<span>hall</span></h2>
+            <h5>Campaigns <span>& Opportunities</span></h5>
+            <p>Quality and reliable products</p>
+          <button type="button">Buy Now</button>
+          
+        </div>
+      </div>
+    </section>
+    <div class="service">
+        <div class="title">
+            <h2>6 UNIQUE HOME LAYOUT
+                Check Below</h2>
+        </div>
+    </div>
+        <div class="box">
+            <div class="card">
+                <i class="fa-solid fa-bars"></i>
+                <h5>Soft JORDON</h5>
+                <div class="pra">
+                    <img src="../Picturies/jorden.jpg" class="iphone">
+                    <p style="text-align: center;">
+                        <br/>
+                        <a class="button" href="#">SHOP</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="card">
+                <i class="fa-solid fa-user"></i>
+                <h5>Air JORDON</h5>
+                <div class="pra">
+                    <img src="../Picturies/airj.jpg" class="iphone">
+                    <p style="text-align: center;">
+                        <br/>
+                        <a class="button" href="#">BUY IT</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="card">
+                <i class="fa-solid fa-bell"></i>
+                <h5>Nike</h5>
+                <div class="pra">
+                    <img src="../Picturies/nikl.jpg" class="iphone">
+                    <p style="text-align: center;">
+                        <br/>
+                        <a class="button" href="#">WISHLIST</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="service-2">
+    <div class="box-2">
+    <div class="card">
+        <i class="fa-solid fa-user"></i>
+        <h5>Huawei</h5>
+        <div class="pra">
+            <img src="../Picturies/huaweii.jpg" class="iphone">
+            <p style="text-align: center;">
+                <br/>
+                <a class="button" href="#">CHECKOUT</a>
+            </p>
+        </div>
+    </div>
+    <div class="box-2">
+    <div class="card">
+        <i class="fa-solid fa-user"></i>
+        <h5>İphone</h5>
+        <div class="pra">
+            <img src="../Picturies/iphone.jfif" class="iphone">
+            <p style="text-align: center;">
+                <br/>
+                <a class="button" href="#">INDIVIDUAL PURCHASE</a>
+            </p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <i class="fa-solid fa-user"></i>
+        <h5>Samsung</h5>
+        <div class="pra">
+            <img src="../Picturies/samsung.jpg" class="iphone">
+            <p style="text-align: center;">
+                <br/>
+                <a class="button" href="#">SHOPPİNG</a>
+            </p>
+        </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="contact-me">
+        <p>BUY THIS TEMPLATE AND GET MORE AMAZING
+            PROPERTIES!</p>
+        <a class="button-two" href="#">Buy Now</a>
+    </div>
+    <footer>
+        <p>Alper <span>Çoban</span></p>
+        <p>Contact us for any help</p>
+        <div class="social">
+            <a href="#"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAUxJREFUSEu1lYFNwzAQRV8nYATKBMAE7QgwAXQCYALoBLQTABMAGzAC3QA2gAlAP7Ktw7V9DlJOsiIl9r3z+ftnxsQxmzg/PYBLYAGchKGa3sN4AV5bRbYAZ8A9MHd2+QHcAILtRQ2wAa5Gtk9rBPoTJcB/ksekW+DaEnKA2vLcqPwzJLDtuANuzZpz264coH4eVgDf4ZA1x0YO0PejOMECpJaHRvVPgObEWAZ16alhI+3CAh6BiwZgDahahdfKVIwFSNvHnYC8Lfky5TrVSwv4cWRpd+ABUu4egHfb38JZ5PUN6+zimoI8wBdwkGXfRVvpOWQPUGpt8ZA9mY45gxUgVe65aeui9QJ025NBjrGKXkDTKrSrmtn1AFyzi2Io3WoPkFvJkMv74Wg30fxqgJLDJtV6EtREqUtmpgs1KKPyrmgEPQDHQdqfJwf8ArJlSRlOmzLXAAAAAElFTkSuQmCC"/></a>
+            <a href="#"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAVJJREFUSEvFleExBEEQhb+LABEgAzKQASJABIgAGRABIkAEJwNEgAyIgPrUjJoavbuzp7Zu/t3tdL9+r1/3zJj4zCbOz9IAtoBjYAfYGGD5BjwCV8BzfTdicAhcLyjdEXBTxtYAVv60YPIctl0yqQFEPxgB8AnsJSnPUtwtoAo/pwZQz/UOAAPVeDX1xUL8bcWC3KU4c2x2AXwFyV9SAgPLo5wyXkmgAv/JWzOIAKzmIzXeSj33gA3VYVHPfvMOAWQ9TbhbMXhIzKJvzQCnwCUQMZPVGnAO5AaPlugiJYgAdJC6/wsgSxTZt0++ZomkrA11kFKVTT4BdNI8cN4oAJPvB3vGPaX3S3sO9qBv0HRLXmZWntnUBJwbv4eTPHZVREPfuyocnNeOVdH6d++yM8mk6zpXKRP9bSO7ll+++54eHF3W9OC0StF0b2lvclN1LZe+ASQ6RhleKRAtAAAAAElFTkSuQmCC"/></a>
+            <a href="#"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAUdJREFUSEvdleExBEEQhb+LgAzIABEgAkTgRIAIEAEhyAARkAGXAREgAuq7mrmanZuZ29uq/XNTdX92ut/r97qnb8LIZzIyPptHsA38rLDNmEvgFNgHPoFH4C7k+f05YuQWGWzAR4PkDTgs3Jsj4TXwUCLw8j0oOAMEyk+MqfFLMgsE8yJzBX9JplUoO7VMdU8Ndb/BgUVxOYHenWQAfvOnfQfAfYPgJRAsQlICm7cbwHYGvg8V36a5OcH3QOCY1mlwqQfaMLR68bSwM4F5D5wSG7Q1QMlXsLiTWloVTsp53qwehEv2lCzy2xHw2gMwDbF61S9tgdqycxJu1iA5rjzM5jZ1bH1s2tU6F2EXFWNqCrQpLrQauK/2qgWe90BQK97rYY0vVnDHunlKCqah0TYtkrnAbGC6NlZhz+837x+tl+x1gka36B/CnzgZFPaBJAAAAABJRU5ErkJggg=="/></a>
+        </div>
+        <p class="end">CopyRight By Alper Çoban</p>
+    </footer>
+    
+    
+
+        
+    
+</body>
+</html>
